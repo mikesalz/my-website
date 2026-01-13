@@ -1,7 +1,7 @@
 
 USE ODS
 GO
-
+-- HADOOOOOOOKEN
 
 CREATE OR ALTER PROCEDURE [PatientPortal].[usp_Claimant_Portal_Mobile_Invite_Events_Driver]
 	@Topic VARCHAR(255),	-- Must be a parameter because topic can change per environment
